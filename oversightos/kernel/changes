@@ -1,0 +1,13 @@
+Changes:
+    Now if "alloc" fails to allocate the requested amount, the previously
+    allocated amount remains usable.
+
+    Added commands for rebooting and powering off ( reboot, shutdown ).
+
+    Added PCI device enumeration. The amount of detected devices is printed.
+
+Bug fixes:
+    Fixed a silly bug that caused quadruple memory usage of "alloc".
+
+    Fixed a bug that caused all months after July to not print properly, also crashed the OS on December.
+

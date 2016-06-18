@@ -1,0 +1,8 @@
+default 0
+
+hiddenmenu
+timeout 0
+
+title OverSight(OS)
+kernel /boot/kernel/image.sys
+

@@ -1,0 +1,15 @@
+
+Converted all *.raw files to *.png
+
+Now the character can be moved with WASD keys, as well as QEZC keys for diagonal movement.
+
+Fixed intro and pause screens. Text is disabled, for now.
+
+Now the 'primative' tries to follow you around.
+
+Fixed the way 'primative' is drawn.
+
+Removed menu until a portable implementation is made.
+
+Removed movement by arrow keys and num-pad until further notice.
+
